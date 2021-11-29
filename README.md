@@ -4,7 +4,7 @@ Third Homework Assignment from Brown University's PhD level Bayesian statistical
 
 # Goal
 
-This assignment required students to complete questions 3.2 , 3.3, 3.5, 3.8, 3.12, 3.14, and 3.15 from Bayesian Data Analysis by Andrew Gelman
+This assignment required students to complete questions 5.3 , 5.4, 5.11, 5.13, 6.2, 6.6, 6.9, 7.5 and 7.6 from Bayesian Data Analysis by Andrew Gelman
 
 # Code
 
